@@ -1,23 +1,24 @@
-Amigo Secreto 🎁
+# Amigo Secreto 🎁
+
 Este proyecto es una aplicación web sencilla que permite a los usuarios:
+- Agregar nombres de amigos a una lista.
+- Visualizar la lista de amigos.
+- Realizar un sorteo aleatorio para elegir al "amigo secreto".
 
-Agregar nombres de amigos a una lista.
+## Tecnologías utilizadas
+- HTML
+- CSS
+- JavaScript
 
-Visualizar la lista de amigos.
+## Cómo usar
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu_usuario/amigo-secreto.git
 
-Realizar un sorteo aleatorio para elegir al "amigo secreto".
-
-Tecnologías utilizadas
-HTML
-
-CSS
-
-JavaScript
-
-Cómo usar
+## Cómo usar repositorio de ernestorafaelviloriagarcia
 Clona este repositorio: GitHub - ernestorafaelviloriagarcia/challenge-amigo-secreto_esp-main
 
-Como enlazar tu carpeta local desde VSC con el repo en la nube y subir el contenido a la rama main.
+## Como enlazar tu carpeta local desde VSC con el repo en la nube y subir el contenido a la rama main.
 
  
 
